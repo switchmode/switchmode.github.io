@@ -1,0 +1,28 @@
+html {
+  font-family: sans-serif;
+  font-size: 120%;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 35rem;
+  padding: 1rem 0 5rem 0;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.lead {
+  color: #777;
+  padding: 0.5rem 0 1rem 0;
+}
